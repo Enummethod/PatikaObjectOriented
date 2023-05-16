@@ -1,3 +1,1 @@
-![image](https://user-images.githubusercontent.com/80968031/126772528-0dbde1ed-95bc-4c38-854f-7341ad69117b.png)
-
-
+![university management system](https://github.com/Enummethod/PatikaObjectOriented/assets/80968031/c2171a15-26ef-4792-a3ec-0f472945dfda)
